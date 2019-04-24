@@ -73,6 +73,12 @@ header {
 	margin: 20px 0;
 	display: flex;
 	justify-content: space-between;
+	align-items: flex-end;
+}
+
+header nav {
+	display: flex;
+	align-content: center;
 }
 
 header nav a {
