@@ -177,6 +177,7 @@ header img {
 	flex-direction: column;
 	align-items: flex-start;
 	padding: 10px;
+	background-color: #F4F3F4;
 }
 
 .content-section section button {
