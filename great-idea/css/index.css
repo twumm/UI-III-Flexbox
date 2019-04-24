@@ -150,6 +150,11 @@ header img {
 	margin-right: 15px;
 }
 
+/* Services css */
+.top-content-services img {
+	width: 100%;
+}
+
 footer {
 	margin-top: 20px;
 }
