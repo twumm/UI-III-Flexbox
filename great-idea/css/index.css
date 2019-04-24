@@ -122,11 +122,13 @@ header img {
 	box-sizing: border-box;
 }
 
-.middle-content-top section {
-	display: inline-block;
-	width: 49%;
-	vertical-align: top;
+.middle-content-top {
+	display: flex;
 	margin-bottom: 20px;
+}
+
+.middle-content-top section p {
+	padding-right: 10px;
 }
 
 .middle-content img {
