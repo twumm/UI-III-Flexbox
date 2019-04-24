@@ -85,10 +85,11 @@ header nav a {
 	padding: 0px 20px 10px 0px;
 	text-decoration: none;
 	color: grey;
+	padding-right: 30px;
 }
 
 header img {
-	margin-left: 50px;
+	margin-left: 20px;
 }
 
 .top-content {
