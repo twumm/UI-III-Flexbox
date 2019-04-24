@@ -86,35 +86,12 @@ header img {
 }
 
 .top-content {
-	display: inline-block;
-	vertical-align: top;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	width: 100%;
-}
-
-.top-content .top-content-left {
-	display: inline-block;
-	width: 60%;
-	vertical-align: top;
-	text-align: center;
-	margin-top: 20px;
-}
-
-.top-content-left h1 {
-	font-size: 50px;
-}
-
-.top-content-left button {
-	border: 1px solid black;
-	padding: 5px 20px;
-	background-color: white;
-}
-
-.top-content img {
-	display: inline-block;
-	width: 35%;
-	vertical-align: top;
 }
 
 .middle-content {
