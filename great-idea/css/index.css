@@ -94,6 +94,27 @@ header img {
 	width: 100%;
 }
 
+.top-content .top-content-left {
+	width: 60%;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.top-content-left h1 {
+	font-size: 50px;
+}
+
+.top-content-left button {
+	border: 1px solid black;
+	padding: 5px 20px;
+	background-color: white;
+}
+
+.top-content img {
+	width: 35%;
+	vertical-align: top;
+}
+
 .middle-content {
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
